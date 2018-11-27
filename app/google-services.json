@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "546612966360",
+    "firebase_url": "https://mabim-guide-ftui.firebaseio.com",
+    "project_id": "mabim-guide-ftui",
+    "storage_bucket": "mabim-guide-ftui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546612966360:android:7ab95dbd69a313a2",
+        "android_client_info": {
+          "package_name": "hasnan.adhie.mabimguide_ftui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546612966360-rf3hvm4vgprd92fc0iceniktnrvlt2gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hasnan.adhie.mabimguide_ftui",
+            "certificate_hash": "4483b3401ad41f4828b46d7b147d6a68ad07ca3e"
+          }
+        },
+        {
+          "client_id": "546612966360-s11o5sa0qvj5pih73igj5ju6q2aqcaon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnI-zRYDV8aDtwhm9shYlBgzCCVcwD2Yk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546612966360-s11o5sa0qvj5pih73igj5ju6q2aqcaon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
